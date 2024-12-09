@@ -1,4 +1,4 @@
-# Django-sslcommerz
+# Django-payment
 
 <div align="center"> 
    
